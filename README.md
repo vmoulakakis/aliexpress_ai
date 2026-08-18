@@ -7,7 +7,7 @@
 > **Canonical Travel AI repository:** `vmoulakakis/travel_ai`
 > **Canonical AliExpress / AIgora repository:** `vmoulakakis/ai-aliexpress`
 >
-> This repository is retained only for historical/reference purposes.
+> This repository is retained only for historical/reference purposes. The GitHub repository-level archive flag has not been toggled because the current connector does not expose that administrative action.
 
 ---
 
