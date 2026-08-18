@@ -1,3 +1,16 @@
+# ARCHIVED / LEGACY REPOSITORY
+
+> **Status:** Legacy duplicate. Do not use for new development or production deployment.
+>
+> Despite this repository name, this codebase is a historical Travel AI snapshot.
+>
+> **Canonical Travel AI repository:** `vmoulakakis/travel_ai`
+> **Canonical AliExpress / AIgora repository:** `vmoulakakis/ai-aliexpress`
+>
+> This repository is retained only for historical/reference purposes.
+
+---
+
 # Ελληνικός AI Travel Guru V10 — Greece-First Travel Decision AI
 
 Travel decision intelligence for travelers starting primarily from Greece.
